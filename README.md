@@ -4,5 +4,5 @@
 ## Install Instructions
 
 1. Install a fresh copy of Odyssey of Gianna.
-2. Drag and drop the www folder into the Game folder.
+2. Drag and drop the `www` folder into the game folder.
 3. Merge and replace everything when asked.
